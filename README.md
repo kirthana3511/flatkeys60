@@ -31,3 +31,9 @@
 | **PCB Fabrication (JLCPCB)**     | 1   | ₹3,280               | **~$40**    |
 | **Total (approx.)**              |     |                      | **~$132**   |
 
+---
+### images
+<img width="526" alt="flatk2" src="https://github.com/user-attachments/assets/808cca06-f8c5-4c2c-9389-883ca924e1be" />
+<img width="893" alt="flatk1" src="https://github.com/user-attachments/assets/5e7e441a-dc08-4681-a1a9-71e0b32d0094" />
+<img width="871" alt="flatk3" src="https://github.com/user-attachments/assets/e6a36a93-dbf2-4444-ac20-5133b9e58435" />
+
