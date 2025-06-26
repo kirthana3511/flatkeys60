@@ -1,7 +1,7 @@
 # flatkeys: the log  
 **total hours: ~43.5 hours of clicky clacky chaos, confusion, and keyboard-core memories**  
 nothing like building a keyboard from scratch to realize you know nothing and also everything at the same time.  
-this is the dev log for *flatkeys* — where the goal was to make a clean, minimal, tkl-ish board that doesn’t look like it was made in a garage.  
+this is the dev log for *flatkeys* where the goal was to make a clean, minimal, tkl-ish board that doesn’t look like it was made in a garage.  
 spoiler: it absolutely was.
 
 ---
@@ -27,7 +27,7 @@ printed a paper layout and pretended to type on it. felt real
 **june 11**  
 (2.5 hours)  
 plate design day  
-experimented with cutouts — tried isolating each switch for flex (it did not flex)  
+experimented with cutouts tried isolating each switch for flex (it did not flex)  
 added standoff holes, didn’t add support for screw-in stabs yet  
 printed the plate on paper again. scissors came out. vibes were solid
 
@@ -46,9 +46,9 @@ this was mostly “adjust, render, stare, repeat” on loop
 (2 hours)  
 watched 4 keyboard teardown videos while eating  
 took inspo from jelly epoch for case angles  
-added slight tilt to the bottom half of the case — ergonomic but still clean  
+added slight tilt to the bottom half of the case ergonomic but still clean  
 still thinking about adding a brass weight but that’s money i don’t have
-
+ 
 ---
 
 **june 14**  
@@ -86,7 +86,7 @@ realized i might need a custom daughterboard. ignored that problem completely
 
 **june 20**  
 (3 hours)  
-was in a mood to redo the entire top half — and i did  
+was in a mood to redo the entire top half and i did  
 simplified the curves, added internal support, made a magnetic top idea (??)  
 won’t even try magnets for now but the model is there if i ever feel brave
 
