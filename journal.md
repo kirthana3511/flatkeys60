@@ -22,6 +22,9 @@ key spacing was off by a few mm at first. fixed it after crying over gridlines
 learned how fillets work properly. the curves are curving now  
 printed a paper layout and pretended to type on it. felt real
 
+![WhatsApp Image 2025-06-26 at 10 56 07_b7571890](https://github.com/user-attachments/assets/0122a46a-ace2-44cf-8597-2af73f63b5ce)
+
+
 ---
 
 **june 11**  
@@ -97,6 +100,7 @@ won’t even try magnets for now but the model is there if i ever feel brave
 exported final DXFs, made a BOM  
 went through 4 JST connector datasheets just to find one that fits  
 this whole process made me feel like i was prepping for a rocket launch not a keyboard
+![image](https://github.com/user-attachments/assets/ba51634f-cff2-4944-b92b-019d4350c158)
 
 ---
 
@@ -107,6 +111,9 @@ realized the case looked kinda chonky from the side view
 completely redesigned the case that night  
 lowered the profile, changed the seam line, fixed tolerances
 
+![WhatsApp Image 2025-06-26 at 10 55 30_91835210](https://github.com/user-attachments/assets/d101f753-f9e6-488f-89a7-b930e0b7f01b)
+
+
 ---
 
 **june 26 (morning)**  
@@ -115,6 +122,8 @@ final export. updated every single file
 cleaned the fusion project like it was going to be graded  
 submitted the whole shebang to the HC Highway form  
 was half-asleep by then but clicked “submit” anyway
+![WhatsApp Image 2025-06-26 at 10 55 47_810413f1](https://github.com/user-attachments/assets/dcdb5208-ccfa-4a2d-9c3b-a5621cb62580)
+
 
 ---
 
