@@ -33,7 +33,6 @@
 
 ---
 ### images
-![image](https://github.com/user-attachments/assets/5e36160c-27ec-4190-b5e5-18b99d0b7160)
 
 ![WhatsApp Image 2025-06-26 at 10 55 47_03a2346b](https://github.com/user-attachments/assets/e494299a-8c37-4fec-865d-b9fd0165894f)
 <img width="526" alt="flatk2" src="https://github.com/user-attachments/assets/808cca06-f8c5-4c2c-9389-883ca924e1be" />
