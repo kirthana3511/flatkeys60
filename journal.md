@@ -1,129 +1,194 @@
-# flatkeys: the log  
-**total hours: ~43.5 hours of clicky clacky chaos, confusion, and keyboard-core memories**  
-nothing like building a keyboard from scratch to realize you know nothing and also everything at the same time.  
-this is the dev log for *flatkeys* where the goal was to make a clean, minimal, tkl-ish board that doesn’t look like it was made in a garage.  
-spoiler: it absolutely was.
+# flatkeys: the logbook  
+
+**total time spent: ~50 hours of CAD pain, keyboard gain, and very little actual typing**  
+*summary:* the dream? a clean, minimal keyboard that looks like a boutique board but was made in my bedroom with too much caffeine and questionable precision.
 
 ---
 
-**june 9**  
-(3 hours)  
-started off with the idea dump. i wanted something that was lowkey but not boring  
-sketched some cursed layouts. some had knobs. some had too many keys.  
-settled on a 60% + function row style. no numpad, i’m not THAT kind of guy  
-created a folder called “flat AF keys”. it begins
+## 📋 Progress Table
+
+| Date       | Title                                | Time Spent | Summary                                       |
+|------------|--------------------------------------|------------|-----------------------------------------------|
+| June 8     | The Spark                            | 2 hrs      | Sketched layouts, landed on a TKL-ish vibe    |
+| June 9     | CAD Panic Begins                     | 3.5 hrs    | Fusion 360 and my patience fought hard        |
+| June 10    | Plate Work but Make It Precise       | 3 hrs      | Flex cuts, stabs, and scissors got involved   |
+| June 11    | Wall Thickness Dilemma               | 3 hrs      | From 2mm noodles to 4mm tanks                 |
+| June 12    | YouTube Research = Progress (kinda)  | 2 hrs      | Watched 5 builds and learned about magnets    |
+| June 13    | Layered Plate Experiments            | 4 hrs      | Laser cut prep, kerf chaos                    |
+| June 14    | Mounting Mayhem                      | 3 hrs      | Switch fit tests, low-pro plate abandoned     |
+| June 15    | Material Wars                        | 1.5 hrs    | Reddit fights over POM vs FR4 vs acrylic      |
+| June 16    | Snap Fit Adventures                  | 4 hrs      | Designed screwless base, alignment trials     |
+| June 17    | Overengineering Top Plate            | 3 hrs      | Rethought magnets, stashed the idea for later |
+| June 19    | The Bom Bom                           | 2.5 hrs    | Connector datasheet deep dives                |
+| June 20    | Case Redesign ft. Insecurities       | 3.5 hrs    | Fixed angles, tolerances, ego                 |
+| June 21    | Final Stretch (lowkey tired)         | 3.5 hrs    | Final exports, last Fusion cleanup            |
+| June 22    | Submission Chaos                     | 3 hrs      | Everything zipped, clicked submit half-asleep|
 
 ---
 
-**june 10**  
-(5 hours)  
-jumped into fusion 360. modeled the top plate, bottom case  
-key spacing was off by a few mm at first. fixed it after crying over gridlines  
-learned how fillets work properly. the curves are curving now  
-printed a paper layout and pretended to type on it. felt real
+## june 8: the spark  
+**2 hours**  
+Was just chilling and saw a low-profile keyboard on Instagram that looked clean af.  
+One Pinterest scroll later, I had 9 screenshots, 2 moodboards, and a burning desire to design one.  
+Opened a new folder called `flat_af_keys` because naming is everything.  
+Sketched some cursed layouts   some with knobs, some with too many keys, one was just arrows and a smiley face.  
+Settled on a TKL-ish layout without the numpad. Compact but not annoying.  
 
-![WhatsApp Image 2025-06-26 at 10 56 07_b7571890](https://github.com/user-attachments/assets/0122a46a-ace2-44cf-8597-2af73f63b5ce)
-
-
----
-
-**june 11**  
-(2.5 hours)  
-plate design day  
-experimented with cutouts tried isolating each switch for flex (it did not flex)  
-added standoff holes, didn’t add support for screw-in stabs yet  
-printed the plate on paper again. scissors came out. vibes were solid
+<!-- no image needed yet -->
 
 ---
 
-**june 12**  
-(3 hours)  
-case thickness experiments  
-2mm walls = nah. 3mm = better. 4mm = feels chunky but safe  
-tried fitting a Type-C breakout board into the model. it fit but barely  
-this was mostly “adjust, render, stare, repeat” on loop
+## june 9: cad panic begins  
+**3.5 hours**  
+Jumped into Fusion 360 like I knew what I was doing. I did not.  
+Modeled the top plate and a basic bottom shell. Key spacing was off by a few mm at first and it triggered me deeply.  
+Fixed it, learned how to do fillets properly   now the curves are curving.  
+Printed a paper layout to check spacing and mock-typed on it like a nerd. Felt real.
 
----
-
-**june 13**  
-(2 hours)  
-watched 4 keyboard teardown videos while eating  
-took inspo from jelly epoch for case angles  
-added slight tilt to the bottom half of the case ergonomic but still clean  
-still thinking about adding a brass weight but that’s money i don’t have
- 
----
-
-**june 14**  
-(4 hours)  
-back to the plate. added support for screw-in stabs  
-made a layered sandwich version for laser cutting  
-had to fix kerf offsets. turned out my SVGs were pixel soup  
-ran everything through a test export. things finally started to feel sharp
-
----
-
-**june 15**  
-(2.5 hours)  
-random switch-mounting experiments. tried clip-in and plate mount tolerances  
-added little tabs for strength. it made the plate uglier but more solid  
-also tried making a low-profile version. didn’t go well. scrap it
-
----
-
-**june 16**  
-(1 hour)  
-read like 3 reddit posts on plate materials.  
-people are fighting over POM vs FR4 like it’s politics  
-decided to try acrylic first. cheap and pretty. worst case, i get RGB diffusion
-
----
-
-**june 17**  
-(3.5 hours)  
-revamped the bottom shell to make it screwless  
-snaps + alignment pins. made a fake PCB shape to test spacing  
-realized i might need a custom daughterboard. ignored that problem completely
-
----
-
-**june 20**  
-(3 hours)  
-was in a mood to redo the entire top half and i did  
-simplified the curves, added internal support, made a magnetic top idea (??)  
-won’t even try magnets for now but the model is there if i ever feel brave
-
----
-
-**june 22**  
-(2 hours)  
-exported final DXFs, made a BOM  
-went through 4 JST connector datasheets just to find one that fits  
-this whole process made me feel like i was prepping for a rocket launch not a keyboard
-![image](https://github.com/user-attachments/assets/ba51634f-cff2-4944-b92b-019d4350c158)
-
----
-
-**june 25 (night)**  
-(3 hours)  
-got some input from the homies  
-realized the case looked kinda chonky from the side view  
-completely redesigned the case that night  
-lowered the profile, changed the seam line, fixed tolerances
-
-![WhatsApp Image 2025-06-26 at 10 55 30_91835210](https://github.com/user-attachments/assets/d101f753-f9e6-488f-89a7-b930e0b7f01b)
+![model (12)](https://github.com/user-attachments/assets/7b0f9cc5-4ac3-426b-89db-03e20a2527e9)
 
 
 ---
 
-**june 26 (morning)**  
-(2 hours)  
-final export. updated every single file  
-cleaned the fusion project like it was going to be graded  
-submitted the whole shebang to the HC Highway form  
-was half-asleep by then but clicked “submit” anyway
-![WhatsApp Image 2025-06-26 at 10 55 47_810413f1](https://github.com/user-attachments/assets/dcdb5208-ccfa-4a2d-9c3b-a5621cb62580)
+## june 10: plate work but make it precise  
+**3 hours**  
+Worked on the plate design. Tried adding flex cuts but it just made it look like swiss cheese.  
+Added standoff holes and support for screw-in stabs (finally).  
+Printed another paper layout and cut it out like it was arts and crafts time.  
+Felt way better than expected.
+
+![model (13)](https://github.com/user-attachments/assets/b989f9aa-3ae9-4791-89de-ec881b0b05ae)
 
 
 ---
 
+## june 11: wall thickness dilemma  
+**3 hours**  
+Tried 2mm, felt flimsy. 3mm, decent. 4mm, chef’s kiss.  
+Modeled in the USB Type-C breakout   barely fit, but it fits.  
+Lots of zooming and squinting. Changed wall profiles thrice.  
+Slight redesign of the outer shape to feel a bit sleeker.
+
+
+
+---
+
+## june 12: youtube research = progress (kinda)  
+**2 hours**  
+Watched keyboard teardown videos while eating lunch. Called it research.  
+Learned about keyboard tilt, gasket mounts, and why magnets are scary but cool.  
+Added a slight tilt to the bottom shell. Contemplated making it magnetic.  
+Decided not to   future Milan can deal with that.
+
+![image](https://github.com/user-attachments/assets/9bf09f90-3318-4922-82c4-973bb904f872)
+
+---
+
+## june 13: layered plate experiments  
+**4 hours**  
+Redesigned plate for laser cutting: layered style.  
+Kerf offset math hurt my brain. My first SVG export looked like pixel soup.  
+Adjusted and re-exported everything again.  
+Finally got clean curves and spacing. Feels sharp now.
+
+
+
+---
+
+## june 14: mounting mayhem  
+**3 hours**  
+Switch mounting tolerances are no joke.  
+Clip-in mounts worked okay-ish, plate-mount was a disaster.  
+Added mini tabs for support   not pretty, but functional.  
+Low-profile version? Bad idea. Deleted it. Good riddance.
+
+![image](https://github.com/user-attachments/assets/e999c729-1c4a-4a72-b4d2-9c7891e79ee3)
+
+
+---
+
+## june 15: material wars  
+**1.5 hours**  
+Reddit thread got me deep into FR4 vs POM vs Acrylic vs “just vibes.”  
+Decided on acrylic for now   cheap, easy, and good RGB diffusion.  
+Even if the board sucks, it’ll glow.
+
+
+![image](https://github.com/user-attachments/assets/5f4e0ba2-76c2-4817-859d-5fdc47abf635)
+
+
+---
+
+## june 16: snap fit adventures  
+**4 hours**  
+Reworked the bottom case to be completely screwless.  
+Snap fits and alignment pins galore.  
+Modeled a dummy PCB just to make sure nothing collides.  
+Debated doing a daughterboard. Didn’t. Not my circus (yet).
+
+
+---
+
+## june 17: overengineering top plate  
+**3 hours**  
+Felt like doing something dramatic so I redid the top half.  
+Redesigned curves, internal supports, and added a magnet mount idea (again).  
+Decided to keep it screw-fit for now but left magnets in the CAD for future me.  
+
+
+
+---
+
+## june 19: the bom bom  
+**2.5 hours**  
+Started making the BOM. JST connectors are a different kind of pain.  
+Compared like 5 datasheets before picking one that fits.  
+This felt more like rocket science than keyboard making.
+
+
+
+---
+
+## june 20: case redesign ft. insecurities  
+**3.5 hours**  
+Showed renders to a friend who roasted the side profile.  
+Redesigned the case that night   flatter, cleaner, less chonk.  
+Fixed tolerances and the seam line. Case went from “meh” to “maybe I’d buy this.”  
+
+![image](https://github.com/user-attachments/assets/17b7ce85-b886-4bc2-ac18-c740438c42d8)
+
+
+---
+
+## june 21: final stretch (lowkey tired)  
+**3.5 hours**  
+Cleaned up the Fusion project   like, properly.  
+Every unused sketch got deleted. Every body named.  
+Final render time. It felt... done. Almost.  
+
+
+
+---
+
+## june 22: submission chaos  
+**3 hours**  
+Zipped the folder, double checked every STL and DXF.  
+Filled the Hack Club Highway form.  
+Was half-asleep when I hit submit.  
+Immediately regretted not proofreading but whatever, we ball.  
+
+![image](https://github.com/user-attachments/assets/3fe64a19-b6b7-4a96-9503-a137d4a97d51)
+
+
+                 
+
+---
+
+### final vibes  
+
+This project made me fall in love with design and hate tolerances.  
+Would I do it again? Absolutely. But next time, I’m getting laser eyes and a CNC machine.  
+**flatkeys** started as a meme name and now it’s kind of iconic in my brain.  
+Let’s see if it types.
+
+**total time spent: 50 hours**  
