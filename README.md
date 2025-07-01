@@ -34,7 +34,11 @@
 ---
 ### images
 
+![model (12)](https://github.com/user-attachments/assets/d941d67c-e495-41f3-880a-52fc030b732b)
+
+
 ![23](https://github.com/user-attachments/assets/78940545-1c02-4f2a-8f04-8db0db8fc66a)
+![model (13)](https://github.com/user-attachments/assets/0aab45e1-f356-4eee-b341-1f3fd7b394dc)
 
 ![WhatsApp Image 2025-06-26 at 10 55 47_03a2346b](https://github.com/user-attachments/assets/e494299a-8c37-4fec-865d-b9fd0165894f)
 <img width="526" alt="flatk2" src="https://github.com/user-attachments/assets/808cca06-f8c5-4c2c-9389-883ca924e1be" />
